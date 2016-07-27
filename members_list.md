@@ -3,10 +3,41 @@
 </p>
 # Club Members List
 
-Note: Potentially privacy issue. What can and can't we include in this list. I think we can at least include names.
+#### President 
+*TBA*
 
-Jonathon Belotti
+#### Junior President 
+**Louis** Stekhoven-Smith - [Github](https://github.com/rmit-s3530225-Louis-Stekhoven-Smith)
+
+#### Sectretary 
+**Jacqueline** Shadforth - [Github](https://github.com/jacquelineshadforth)
+
+#### Treasurer 
+**Japans** Patel - [Github](https://github.com/mrjpatel)
+
+#### Members 
+
+
 Ari Fanucchi
-Zoe Zhang
+Cynthia Amarachi Okorom
+Doan Phuc Tam
+Harley Laurie
+Harold Zang
+Jack Douma
 Jackson Fraser
-...
+Jacqueline Shadforth (Secretary)
+Japans Patel (Treasurer)
+Jo Jo
+Johan Iskander
+Jonathon Belotti
+Joshua Hall
+Kate Hoang
+Louis Stekhoven-Smith (Junior President)
+Michael Mansour
+Oliver Muthusami 
+Ramadan
+Renee Gaspar 
+Richard Liu
+Syed Labib Ali 
+Walid Hajj 
+Zoe Zhang
