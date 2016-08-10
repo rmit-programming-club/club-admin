@@ -1,6 +1,6 @@
 ### JACQUI SHADFORTH
 
-<img src="shadforth_jacqueline.png" width="200px" height="200px">
+<img src="../images/shadforth_jacqueline.png" width="200px" height="200px">
 
 | []() | []() |
 |---|---|
