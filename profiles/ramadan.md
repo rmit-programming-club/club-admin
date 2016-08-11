@@ -1,6 +1,6 @@
 ### (Dan) Ramadan Sali
 
-<img src="../images/sali_ramadan.png" width="200px" height="200px">
+<img src="../images/sali_ramadan.jpg" width="200px" height="200px">
 
 | []() | []() |
 |---|---|
