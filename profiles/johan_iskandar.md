@@ -9,4 +9,4 @@
 | __Skills__ | Assembly, Java, C#, Cobol, Haskell, ASP.NET |
 | __Interests__ | Web development, Artificial Intelligence, Pattern Designs, Software Architecture, Software QA, Refactoring |
 | __Goals__ | Learn from other developers, write more efficient codes |
-| __Celebrity crush__ | Alan Turing. |
+| __Celebrity crush__ | Alan Turing |
