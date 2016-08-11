@@ -4,7 +4,7 @@
 
 | []() | []() |
 |---|---|
-| __Degree__ | Bachelor of Computer Science(Honours), Masters of IT, Masters of Engineering (Software), Masters of Engineering Science |
+| __Degree__ | Bachelor of Computer Science(Honours) |
 | __Year__ | Graduated |
 | __Skills__ | Assembly, Java, C#, Cobol, Haskell, ASP.NET |
 | __Interests__ | Web development, Artificial Intelligence, Pattern Designs, Software Architecture, Software QA, Refactoring |
