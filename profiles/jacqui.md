@@ -4,6 +4,7 @@
 
 | []() | []() |
 |---|---|
+| __Student ID__ | 3332777 |
 | __Degree__ | Bachelor of Computer Science |
 | __Year__ | 1 |
 | __Skills__ | HTML, CSS, JavaScript, Java, graphic design, web design, video & sound production, motion graphics |
