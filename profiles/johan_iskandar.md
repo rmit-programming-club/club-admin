@@ -1,6 +1,6 @@
 ### JOHAN ISKANDAR
 
-<img src="../images/johan_image.png" width="200px" height="200px">
+<img src="../images/johan_image.jgp" width="200px" height="200px">
 
 | []() | []() |
 |---|---|
