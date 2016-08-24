@@ -8,7 +8,7 @@
 | __Degree__ | Master of IT |
 | __Year__ | 1 |
 | __Skills__ | Writing  |
-| __Languages__ | Java |
+| __Languages__ | Java, Javascript, PHP |
 | __Interests__ | AI, Machine Learning, Knowledge Representation |
 | __Goals__ |  Be an awesome AI-related programmer |
 |__Help Me With...__ |  Nothing so far 
